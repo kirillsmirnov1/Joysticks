@@ -1,0 +1,16 @@
+{
+    "name": "trulden.joysticks.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:276c911e0e069e84bb706554bf5c3716"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

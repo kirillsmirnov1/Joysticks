@@ -1,0 +1,10 @@
+{
+  "name": "trulden.joysticks",
+  "version": "1.22.6",
+  "displayName": "Joysticks",
+  "author": {
+    "name": "Kirill Smirnov",
+    "email": "thegaldren@gmail.com",
+    "url": "https://github.com/kirillsmirnov1"
+  }
+}
