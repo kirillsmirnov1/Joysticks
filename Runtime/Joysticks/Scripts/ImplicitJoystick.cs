@@ -4,7 +4,7 @@ using UnityUtils;
 
 namespace Joysticks
 {
-    public class ImplicitJoystick : MonoBehaviour
+    public class ImplicitJoystick : MonoBehaviour, IVector2DirectionProvider
     {
         public Vector2 Direction => joystick.Direction;
         
